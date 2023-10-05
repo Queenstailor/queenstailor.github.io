@@ -744,7 +744,7 @@ header.active{
 
 <header>
 
-    <a href="#" class="logo"><img src="log.jpg" height="70px"><span>.</span></a>
+    <a href="#" class="logo"><img src="log.jpg" height="70px"><span></span></a>
 
     <form action="">
         <input type="search" id="search-bar">
